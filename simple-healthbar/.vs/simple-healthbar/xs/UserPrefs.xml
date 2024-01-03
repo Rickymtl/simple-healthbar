@@ -1,4 +1,19 @@
 ﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="simple-healthbar/Class1.cs">
+    <Files>
+      <File FileName="simple-healthbar/Class1.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.simple-healthbar FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

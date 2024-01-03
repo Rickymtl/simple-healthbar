@@ -5,4 +5,7 @@
     <RootNamespace>simple_healthbar</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.1.1" />
+  </ItemGroup>
 </Project>

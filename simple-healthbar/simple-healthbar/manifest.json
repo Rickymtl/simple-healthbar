@@ -1,0 +1,10 @@
+﻿{
+  "Name": "simple-healthbar",
+  "Author": "Tlmmods",
+  "Version": "1.0.0",
+  "Description": "adds a healthbar to enemies and a little surprise",
+  "UniqueID": "Tlmmods.simple-healthbar",
+  "EntryDll": "simple-healthbar.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

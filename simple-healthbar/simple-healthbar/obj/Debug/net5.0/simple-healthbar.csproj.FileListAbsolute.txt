@@ -1,0 +1,8 @@
+/Users/mao/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/simple-healthbar/simple-healthbar/simple-healthbar/simple-healthbar/bin/Debug/net5.0/simple-healthbar.deps.json
+/Users/mao/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/simple-healthbar/simple-healthbar/simple-healthbar/simple-healthbar/bin/Debug/net5.0/simple-healthbar.dll
+/Users/mao/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/simple-healthbar/simple-healthbar/simple-healthbar/simple-healthbar/obj/Debug/net5.0/simple-healthbar.csproj.AssemblyReference.cache
+/Users/mao/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/simple-healthbar/simple-healthbar/simple-healthbar/simple-healthbar/obj/Debug/net5.0/simple-healthbar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mao/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/simple-healthbar/simple-healthbar/simple-healthbar/simple-healthbar/obj/Debug/net5.0/simple-healthbar.AssemblyInfoInputs.cache
+/Users/mao/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/simple-healthbar/simple-healthbar/simple-healthbar/simple-healthbar/obj/Debug/net5.0/simple-healthbar.AssemblyInfo.cs
+/Users/mao/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/simple-healthbar/simple-healthbar/simple-healthbar/simple-healthbar/obj/Debug/net5.0/simple-healthbar.csproj.CoreCompileInputs.cache
+/Users/mao/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS/Mods/simple-healthbar/simple-healthbar/simple-healthbar/simple-healthbar/obj/Debug/net5.0/simple-healthbar.dll
